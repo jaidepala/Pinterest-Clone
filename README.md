@@ -14,7 +14,7 @@ A social media app that uses google login & can be used to create posts & make c
 
 ![Login Screen](https://i.imgur.com/gWoK1nS.jpg)
 
-![Light Theme](https://i.imgur.com/bB6mZ0N.jpg)
+![Light Theme](https://i.imgur.com/zXOXNSd.jpg)
 
 ![Dark Theme](https://i.imgur.com/bB6mZ0N.jpg)
 
