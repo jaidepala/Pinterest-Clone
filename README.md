@@ -12,13 +12,15 @@ A social media app that uses google login & can be used to create posts & make c
 
 ## Screenshots
 
-![Login Screen](https://i.imgur.com/AI3HfZI.jpg)
+![Login Screen](https://i.imgur.com/gWoK1nS.jpg)
 
-![Light Theme](https://i.imgur.com/zXOXNSd.jpg)
+![Light Theme](https://i.imgur.com/bB6mZ0N.jpg)
 
-![Dark Theme](https://i.imgur.com/5LNyf6E.jpg)
+![Dark Theme](https://i.imgur.com/bB6mZ0N.jpg)
 
-![Create a Post](https://i.imgur.com/4xFmFCu.jpg)
+![Create a Post](https://i.imgur.com/jwiyRTj.jpg)
+
+![See your saved post](https://i.imgur.com/SzGn4h9.jpg)
 
 ![Works Also on Web](https://i.imgur.com/2pgoBLM.jpg)
 
